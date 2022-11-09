@@ -1,5 +1,8 @@
-# [PIDNet](https://arxiv.org/pdf/2206.02066.pdf)
-PIDNet: A Real-time Semantic Segmentation Network Inspired from PID Controller
+# [PIDNet](https://arxiv.org/pdf/2206.02066.pdf)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamidriasat%2FPIDNet%2F&count_bg=%2379C83D&title_bg=%23555555&icon=sega.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- https://hits.seeyoufarm.com/ -->
+## PIDNet: A Real-time Semantic Segmentation Network Inspired from PID Controller 
+
+` Hit star ⭐ if you find my work useful. `
 
 This repository contain implementation of all three versions of PIDNet in Tensorflow/Keras.
 
